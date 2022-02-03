@@ -14,4 +14,4 @@ If the icons don't work, go to the `server folder` -> `server.properties` -> and
 |kits|-         |KitsUI -> to get a start equipment|
 
 
-Link to cloudburstmc article -> [CloudburstMC]()
+Link to cloudburstmc article -> [CloudburstMC](https://cloudburstmc.org/resources/kitsui.782/)
