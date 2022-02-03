@@ -12,3 +12,6 @@ If the icons don't work, go to the `server folder` -> `server.properties` -> and
 | Command | Permission | Descripton |
 | --- | ------|-----|
 |kits|-         |KitsUI -> to get a start equipment|
+
+
+Link to cloudburstmc article -> [CloudburstMC]()
