@@ -1,0 +1,5 @@
+main: from.Kits
+name: KitsUI
+version: 1.0.1
+api: ["1.0.13"]
+author: Reydovich
